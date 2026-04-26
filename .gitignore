@@ -1,0 +1,25 @@
+Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.eggs/
+venv/
+ENV/
+env/
+.venv
+.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+*.csv
+*.xlsx
+*.xls
+data/
+datasets/
+*.pkl
+*.h5
+*.joblib
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
